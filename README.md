@@ -6,8 +6,6 @@ Envío de publicidad personalizada y análisis de datos:
 
 * Procesa datos y genera gráficas estadisticas con métricas de interés para conocer el consumo de publicidad.
 
-*Desarrollador por Juan Camilo Reyes Zuñiga - IA (UDC, 2017-II).*
-
 ## Definición de zonas
 
 * [Zona 1](zona-1.png) - Cartagena 
